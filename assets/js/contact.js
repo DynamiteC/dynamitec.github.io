@@ -1,3 +1,3 @@
-$(function (){
-	$.post('https://goo.gl/Vqknjp',	{})
+$(function () {
+	$.post('https://goo.gl/Vqknjp', {})
 });
